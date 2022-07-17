@@ -35,7 +35,7 @@ const importerGrille = async() => {
 
                 // Ajouter la valeur au champ
                 input.value = valeur
-            }
+            } 
             
             
             // Si y'a pas de valeur,
